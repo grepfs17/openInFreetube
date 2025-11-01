@@ -6,4 +6,4 @@ Small extension to open YouTube videos on FreeTube
  - Run the freetube_protocol.reg (This only modifies the windows registry to add the freetube: protocol that allows to open the link with an external source)
  - Go to the Chrome extensions compatible browser 
  - Manage extensions > Activate Developer Mode
- - Load unpacked > select the folder 
+ - Load unpacked > select the extension folder
