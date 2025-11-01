@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\freetube]
+@="URL:FreeTube Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\freetube\shell\open\command]
+@="\"C:\\Program Files\\FreeTube\\FreeTube.exe\" \"%1\""

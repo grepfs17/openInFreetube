@@ -1,0 +1,10 @@
+{
+  "name": "Open in FreeTube",
+  "description": "Right-click any YouTube link and send it to the FreeTube desktop app.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "bg.js"
+  }
+}
